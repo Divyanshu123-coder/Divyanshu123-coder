@@ -30,7 +30,7 @@
 <a href="https://www.instagram.com/pt_eeshu_butauliya_/profilecard/?igsh=YzV3azZ2a3dmazN5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ladoo.lover" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/divyanshubutaul1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nagaichsaurabh31" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@divyanshubutauliya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@saurabh nagaich" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nagaichsaurabh320" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nagaichsaurabh320" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/divyanshub4yns/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nagaichsaurabh320" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
