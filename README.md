@@ -1,5 +1,5 @@
-![logo](https://github.com/SaurabhNagaich/Github-Banner/blob/main/banner%20Saurabh.png)
-<h1 align="center">Hi 👋 , I'm Saurabh Nagaich</h1>
+<!-- ![logo](https://github.com/SaurabhNagaich/Github-Banner/blob/main/banner%20Saurabh.png)-->
+<h1 align="center">Hi 👋 , I'm Divyanshu Butauliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt ="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j42ohbcwrHfwsNnhEdMkyk6CyPWzHuyL0YC4lp-n&s">
@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with [Face Detection System](https://github.com/SaurabhNagaich/FaceDetection_Django)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SaurabhNagaich](https://github.com/SaurabhNagaich)
+- 👨‍💻 All of my projects are available at [[https://github.com/Divyanshu123-coder](https://github.com/Divyanshu123-coder)
 
 - 💬 Ask me about *python,Django,Flask,AI,IOT,C#*
 
-- 📫 How to reach me *Nagaichsaurabh320@gmail.com*
+- 📫 How to reach me *divyanshubutauliya@gmail.com*
 
 - ⚡ Fun fact *I Think I Am Funny*
 
