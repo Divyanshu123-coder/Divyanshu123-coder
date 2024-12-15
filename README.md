@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning *DotNet, Kotlin*
 
-- 👯 I’m looking to collaborate on [School Managment System](https://github.com/SaurabhNagaich/School-Managment-system)
+- 👯 I’m looking to collaborate on [School Managment System]( https://github.com/Divyanshu123-coder/School-Managment-system)
 
-- 🤝 I’m looking for help with [Face Detection System](https://github.com/SaurabhNagaich/FaceDetection_Django)
+- 🤝 I’m looking for help with [Face Detection System]( https://github.com/Divyanshu123-coder/FaceDetection_Django)
 
 - 👨‍💻 All of my projects are available at [[https://github.com/Divyanshu123-coder](https://github.com/Divyanshu123-coder)
 
