@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnagaich&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhnagaich" /> </p>
 
-- 🔭 I’m currently working on [Humanoid Robot](https://github.com/SaurabhNagaich/SaurabhNagaich)
+- 🔭 I’m currently working on [Humanoid Robot](https://github.com/Divyanshu123-coder)
 
 - 🌱 I’m currently learning *DotNet, Kotlin*
 
